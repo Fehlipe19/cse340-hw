@@ -171,6 +171,13 @@ h1 {
 @media screen and (max-width: 900px) {
   html {
     font-size: 1.1rem;
+    padding: 0;
+  }
+  body {
+    width: 100%;
+    max-width: 100%;
+    border: none;
+    border-radius: 0px;
   }
   .hero {
     margin-left: 8px;

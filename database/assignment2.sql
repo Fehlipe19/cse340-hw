@@ -10,7 +10,7 @@ VALUES (
     'Stark',
     'tony@startkent.com',
     'Iam1ronM@n'
-)
+);
 
 -- UPDATE account_type
 UPDATE public.account
